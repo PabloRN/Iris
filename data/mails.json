@@ -1,0 +1,154 @@
+{  "pizarra": [
+    {
+
+        "director": "",
+        "local": "pizarra",
+        "telefono": "2085236",
+        "ext": "0",
+        "ubicacion": "lobby",
+        "puerta": "15202"
+
+
+    }
+],
+
+    "dirgeneral": [
+        {
+
+            "director": "Blanca Rosa Hung Ramos",
+            "local": "Secretaria",
+            "telefono": ["2082546", "2086376"],
+            "ext": ["258"],
+            "ubicacion": "Edif. 1 piso 1",
+            "puerta": "2"
+        },
+        {
+            "director": "Blanca Rosa Hung Ramos",
+            "local": "Especialista de cuadros",
+            "telefono": ["2086534"],
+            "ext": ["270"],
+            "ubicacion": "Edif. 1 piso 1",
+            "puerta": "2"
+        },
+        {
+            "director": "Blanca Rosa Hung Ramos",
+            "local": "Auditoria",
+            "telefono": ["2085248"],
+            "ext": ["310"],
+            "ubicacion": "Edif. 1 piso 1",
+            "puerta": "28"
+        },
+        {
+            "director": "Blanca Rosa Hung Ramos",
+            "local": "Asesor Juridico",
+            "telefono": ["2085832"],
+            "ext": ["377"],
+            "ubicacion": "Edif. 1 piso 1",
+            "puerta": "8"
+        }
+
+    ],
+    "DIRECCION ORGANIZACION": [
+        {
+
+            "director": "Ricardo Arencibia Jorge",
+            "local": "Secretaría",
+            "telefono": ["2085243"],
+            "ext": ["260"],
+            "ubicacion": "Edif. 1 piso 1",
+            "puerta": "29"
+        },
+        {
+            "director": "Ricardo Arencibia Jorge",
+            "local": "Información Científico Técnico",
+            "telefono": ["2085249"],
+            "ext": ["270"],
+            "ubicacion": "Edif. 2 piso 1",
+            "puerta": "80a"
+        },
+        {
+            "director": "Ricardo Arencibia Jorge",
+            "local": "Desarrollo Humano y Docencia",
+            "telefono": ["2086009"],
+            "ext": ["235"],
+            "ubicacion": "Edif. 2 piso 1",
+            "puerta": "79"
+        },
+        {
+            "director": "Ricardo Arencibia Jorge",
+            "local": "Propiedad Intelectual",
+            "telefono": ["2087589"],
+            "ext": ["314"],
+            "ubicacion": "Edif. 1 piso 1",
+            "puerta": "30"
+        },
+        {
+            "director": "Ricardo Arencibia Jorge",
+            "local": "Archivos y Recursos Humanos",
+            "telefono": ["2086530"],
+            "ext": ["236"],
+            "ubicacion": "Edif. 1 piso 1",
+            "puerta": "5"
+        },
+        {
+            "director": "Ricardo Arencibia Jorge",
+            "local": "Seguridad Social y Salud del Trabajo",
+            "telefono": ["2082553"],
+            "ext": ["273"],
+            "ubicacion": "Edif. 1 piso 1",
+            "puerta": "26"
+        },
+        {
+            "director": "Ricardo Arencibia Jorge",
+            "local": "Editorial CNIC",
+            "telefono": ["2085831"],
+            "ext": ["374"],
+            "ubicacion": "Edif. 1 piso 2",
+            "puerta": "67"
+        },
+        {
+            "director": "Ricardo Arencibia Jorge",
+            "local": "Relaciones Internacionales",
+            "telefono": ["2086531"],
+            "ext": ["255"],
+            "ubicacion": "Edif. 2 Piso 2",
+            "puerta": "114k"
+        },
+        {
+            "director": "Ricardo Arencibia Jorge",
+            "local": "Grupo de Redes",
+            "telefono": ["2085830"],
+            "ext": ["204"],
+            "ubicacion": "Edif. 2 Piso 2",
+            "puerta": "114"
+        },
+        {
+            "director": "Ricardo Arencibia Jorge",
+            "local": "Departamento DIIC",
+            "telefono": ["2085262"],
+            "ext": ["311"],
+            "ubicacion": "Edif. 2 Piso 2",
+            "puerta": "114L"
+        },
+        {
+            "director": "Ricardo Arencibia Jorge",
+            "local": "Atención a Usuarios – Soporte RED",
+            "telefono": ["2085830"],
+            "ext": ["381"],
+            "ubicacion": "Edif. 2 Piso 2",
+            "puerta": "114"
+        },
+        {
+            "director": "Ricardo Arencibia Jorge",
+            "local": "Atención a Usuarios – Soporte RED",
+            "telefono": ["2085830"],
+            "ext": ["381"],
+            "ubicacion": "Edif. 2 Piso 2",
+            "puerta": "114"
+        }
+
+
+
+    ]
+
+}

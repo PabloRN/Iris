@@ -1,0 +1,2156 @@
+{  "pizarra": [
+    {
+
+        "director": "",
+        "local": "pizarra",
+        "telefono": "2085236, 2085237, 2085238, 2085239, 2085240, 2085241, 2085242",
+        "ext": "0, 211",
+        "ubicacion": "lobby",
+        "puerta": "15202"
+
+
+    }
+],
+
+    "dirgeneral": [
+        {
+
+            "director": "Blanca Rosa Hung Ramos",
+            "local": "Secretaria",
+            "telefono": "2082546, 2086376",
+            "ext": "258",
+            "ubicacion": "Edif. 1 piso 1",
+            "puerta": "2"
+        },
+        {
+            "director": "Blanca Rosa Hung Ramos",
+            "local": "Especialista de cuadros",
+            "telefono": "2086534",
+            "ext": "270",
+            "ubicacion": "Edif. 1 piso 1",
+            "puerta": "2"
+        },
+        {
+            "director": "Blanca Rosa Hung Ramos",
+            "local": "Auditoria",
+            "telefono": "2085248",
+            "ext": "310",
+            "ubicacion": "Edif. 1 piso 1",
+            "puerta": "28"
+        },
+        {
+            "director": "Blanca Rosa Hung Ramos",
+            "local": "Asesor Juridico",
+            "telefono": "2085832",
+            "ext": "377",
+            "ubicacion": "Edif. 1 piso 1",
+            "puerta": "8"
+        }
+
+    ],
+    "dirorganizacion": [
+        {
+
+            "director": "Ricardo Arencibia Jorge",
+            "local": "Secretaría",
+            "telefono": "2085243",
+            "ext": "260",
+            "ubicacion": "Edif. 1 piso 1",
+            "puerta": "29"
+        },
+        {
+            "director": "Ricardo Arencibia Jorge",
+            "local": "Información Científico Técnico",
+            "telefono": "2085249",
+            "ext": "270",
+            "ubicacion": "Edif. 2 piso 1",
+            "puerta": "80a"
+        },
+        {
+            "director": "Ricardo Arencibia Jorge",
+            "local": "Desarrollo Humano y Docencia",
+            "telefono": "2086009",
+            "ext": "235",
+            "ubicacion": "Edif. 2 piso 1",
+            "puerta": "79"
+        },
+        {
+            "director": "Ricardo Arencibia Jorge",
+            "local": "Propiedad Intelectual",
+            "telefono": "2087589",
+            "ext": "314",
+            "ubicacion": "Edif. 1 piso 1",
+            "puerta": "30"
+        },
+        {
+            "director": "Ricardo Arencibia Jorge",
+            "local": "Archivos y Recursos Humanos",
+            "telefono": "2086530",
+            "ext": "236",
+            "ubicacion": "Edif. 1 piso 1",
+            "puerta": "5"
+        },
+        {
+            "director": "Ricardo Arencibia Jorge",
+            "local": "Seguridad Social y Salud del Trabajo",
+            "telefono": "2082553",
+            "ext": "273",
+            "ubicacion": "Edif. 1 piso 1",
+            "puerta": "26"
+        },
+        {
+            "director": "Ricardo Arencibia Jorge",
+            "local": "Editorial CNIC",
+            "telefono": "2085831",
+            "ext": "374",
+            "ubicacion": "Edif. 1 piso 2",
+            "puerta": "67"
+        },
+        {
+            "director": "Ricardo Arencibia Jorge",
+            "local": "Relaciones Internacionales",
+            "telefono": "2086531",
+            "ext": "255",
+            "ubicacion": "Edif. 2 Piso 2",
+            "puerta": "114k"
+        },
+        {
+            "director": "Ricardo Arencibia Jorge",
+            "local": "Grupo de Redes",
+            "telefono": "2085830",
+            "ext": "204",
+            "ubicacion": "Edif. 2 Piso 2",
+            "puerta": "114"
+        },
+        {
+            "director": "Ricardo Arencibia Jorge",
+            "local": "Departamento DIIC",
+            "telefono": "2085262",
+            "ext": "311",
+            "ubicacion": "Edif. 2 Piso 2",
+            "puerta": "114L"
+        },
+        {
+            "director": "Ricardo Arencibia Jorge",
+            "local": "Atención a Usuarios – Soporte RED",
+            "telefono": "2085830",
+            "ext": "381",
+            "ubicacion": "Edif. 2 Piso 2",
+            "puerta": "114"
+        },
+        {
+            "director": "Ricardo Arencibia Jorge",
+            "local": "Albergue",
+            "telefono": "2086528",
+            "ext": "302",
+            "ubicacion": "Ave25 e/ 158 y 190",
+            "puerta": "#15813"
+        },
+        {
+            "director": "Ricardo Arencibia Jorge",
+            "local": "Comunicaciones",
+            "telefono": "2085833",
+            "ext": "304",
+            "ubicacion": "Edif.2 Piso 2",
+            "puerta": "69"
+        },
+        {
+            "director": "Ricardo Arencibia Jorge",
+            "local": "Protección e Higiene",
+            "telefono": "------",
+            "ext": "228",
+            "ubicacion": "Edif. 2 piso 4",
+            "puerta": "228"
+        },
+        {
+            "director": "Ricardo Arencibia Jorge",
+            "local": "Laboratorio Computación",
+            "telefono": "------",
+            "ext": "360",
+            "ubicacion": "Edif. 1 piso 1",
+            "puerta": "11"
+        },
+        {
+            "director": "Ricardo Arencibia Jorge",
+            "local": "Aula Docencia",
+            "telefono": "------",
+            "ext": "214",
+            "ubicacion": "Edif. 2 Piso 2",
+            "puerta": "114n"
+        },
+        {
+            "director": "Ricardo Arencibia Jorge",
+            "local": "Casa Protocolo",
+            "telefono": "2715745",
+            "ext": "340",
+            "ubicacion": "Ave 25 y 160",
+            "puerta": "16011"
+        }
+
+
+    ],
+    "direconomia": [
+        {
+
+            "director": "Lilia Machado Martínez",
+            "local": "Secretaría",
+            "telefono": "2084189",
+            "ext": "226",
+            "ubicacion": "Edif. 2 Piso 1",
+            "puerta": "75"
+
+
+        },
+        {
+
+            "director": "Lilia Machado Martínez",
+            "local": "Grupo Contabilidad y Finanza",
+            "telefono": "2085261",
+            "ext": "215",
+            "ubicacion": "Edif. 2 Piso 1",
+            "puerta": "80b"
+
+
+        },
+        {
+
+            "director": "Lilia Machado Martínez",
+            "local": "Caja Central",
+            "telefono": "2085245",
+            "ext": "207",
+            "ubicacion": "Edif. 2 Piso 1",
+            "puerta": "71"
+
+
+        },
+        {
+
+            "director": "Lilia Machado Martínez",
+            "local": "Nóminas",
+            "telefono": "------",
+            "ext": "280",
+            "ubicacion": "Edif. 2 Piso 1",
+            "puerta": "80D"
+
+
+        },
+        {
+
+            "director": "Lilia Machado Martínez",
+            "local": "Grupo de Inversiones",
+            "telefono": "------",
+            "ext": "352",
+            "ubicacion": "Edif. 2 Piso 1",
+            "puerta": "70"
+
+
+        },
+        {
+
+            "director": "Lilia Machado Martínez",
+            "local": "Grupo Planificación y Estadística",
+            "telefono": "------",
+            "ext": "261",
+            "ubicacion": "Edif. 2 Piso 1",
+            "puerta": "76"
+
+
+        },
+        {
+
+            "director": "Lilia Machado Martínez",
+            "local": "Grupo Finanzas",
+            "telefono": "------",
+            "ext": "209",
+            "ubicacion": "Edif. 2 Piso 1",
+            "puerta": "76"
+
+
+        }
+
+    ],
+    "medioambiente": [
+        {
+            "director": "Mayra Bataller Venta"
+        },
+        {
+
+            "local": "Secretaría",
+            "telefono": "2083654",
+            "ext": "205",
+            "ubicacion": "Edif. 2 Piso 2",
+            "puerta": "99"
+
+        },
+        {
+
+            "local": "Corrosión 1",
+            "telefono": "------",
+            "ext": "346",
+            "ubicacion": "Edif. 2 Piso 2",
+            "puerta": "158"
+
+
+        },
+        {
+
+            "local": "Corrosión 2",
+            "telefono": "------",
+            "ext": "288",
+            "ubicacion": "Edif. 2 Piso 2",
+            "puerta": "155"
+
+
+        },
+        {
+
+            "local": "Tratamiento de Agua",
+            "telefono": "------",
+            "ext": "274",
+            "ubicacion": "Edif. 2 Piso 2",
+            "puerta": "88"
+
+
+        },
+        {
+
+            "local": "Cuarto Caliente",
+            "telefono": "------",
+            "ext": "297",
+            "ubicacion": "Edif. 2 Piso 2",
+            "puerta": "94"
+
+
+        },
+        {
+
+            "local": "Analítica",
+            "telefono": "------",
+            "ext": "247",
+            "ubicacion": "Edif. 2 Piso 2",
+            "puerta": "143"
+
+
+        },
+        {
+
+            "local": "Dpto. Microbiología",
+            "telefono": "2086537",
+            "ext": "------",
+            "ubicacion": "Edif. 2 Piso 2",
+            "puerta": "100"
+
+
+        },
+        {
+
+            "local": "Deca",
+            "telefono": "2086543",
+            "ext": "------",
+            "ubicacion": "Edif. 2 Piso 2",
+            "puerta": "116"
+
+
+        },
+        {
+
+            "local": "Contaminación Ambiental",
+            "telefono": "------",
+            "ext": "344",
+            "ubicacion": "Calle 27 Esq.190",
+            "puerta": "#18822"
+
+
+        },
+        {
+
+            "local": "Microbiología de Agua",
+            "telefono": "------",
+            "ext": "254",
+            "ubicacion": "Edif. 2 Piso 2",
+            "puerta": "114b"
+
+
+        },
+        {
+
+            "local": "Laboratorio Microbiología",
+            "telefono": "------",
+            "ext": "------",
+            "ubicacion": "Edif. 2 Piso 2",
+            "puerta": "100"
+
+
+        },
+        {
+
+            "local": "Cuarto de Estudio Microbiología",
+            "telefono": "------",
+            "ext": "394",
+            "ubicacion": "Edif. 2 Piso 2",
+            "puerta": "114c"
+
+
+        }
+
+    ],
+    "enfinfecciosas": [
+        {
+            "director": "Rafael Fando alzada"
+        },
+        {
+
+            "local": "Secretaría",
+            "telefono": "2086548",
+            "ext": "368",
+            "ubicacion": "Edif. 1 piso 2",
+            "puerta": "46"
+
+        },
+        {
+
+            "local": "Laboratorio Microscopía",
+            "telefono": "------",
+            "ext": "312",
+            "ubicacion": "------",
+            "puerta": "56"
+
+
+        },
+        {
+
+            "local": "Casa Microscopía",
+            "telefono": "------",
+            "ext": "290",
+            "ubicacion": "Casa",
+            "puerta": "2501"
+
+
+        },
+        {
+
+            "local": "Laboratorio Biología Molecular",
+            "telefono": "------",
+            "ext": "248",
+            "ubicacion": "Edif. 1 Piso 2",
+            "puerta": "53"
+
+
+        },
+        {
+
+            "local": "Esterilización",
+            "telefono": "------",
+            "ext": "306",
+            "ubicacion": "------",
+            "puerta": "50"
+
+
+        },
+        {
+
+            "local": "Local Enfermedades Infecciosas",
+            "telefono": "------",
+            "ext": "218",
+            "ubicacion": "------",
+            "puerta": "47"
+
+
+        },
+        {
+
+            "local": "Ensayos Clínicos",
+            "telefono": "------",
+            "ext": "222",
+            "ubicacion": "------",
+            "puerta": "45"
+
+
+        },
+        {
+
+            "local": "Laboratorio de Bioquímica",
+            "telefono": "------",
+            "ext": "202",
+            "ubicacion": "------",
+            "puerta": "41"
+
+
+        }
+
+    ],
+    "aseglogistica": [
+        {
+            "director": "Jacqueline Vázquez Novoa"
+        },
+        {
+
+            "local": "Secretaría",
+            "telefono": "2084045",
+            "ext": "330",
+            "ubicacion": "Aseguramiento y Logistica",
+            "puerta": "4 y 5"
+
+
+        },
+        {
+
+            "local": "Administración",
+            "telefono": "------",
+            "ext": "239",
+            "ubicacion": "Aseguramiento y Logistica",
+            "puerta": "12"
+
+
+        },
+        {
+
+            "local": "Local Procesos",
+            "telefono": "2086539",
+            "ext": "355",
+            "ubicacion": "Aseguramiento y Logistica",
+            "puerta": "35"
+
+
+        },
+        {
+
+            "local": "Electricidad",
+            "telefono": "2082531",
+            "ext": "356 y 232",
+            "ubicacion": "Aseguramiento y Logistica",
+            "puerta": "57"
+
+
+        },
+        {
+
+            "local": "Servicios Generales",
+            "telefono": "------",
+            "ext": "240",
+            "ubicacion": "Aseguramiento y Logistica",
+            "puerta": "16"
+
+
+        },
+        {
+
+            "local": "Dpto. de Compras",
+            "telefono": "2084132, 2080834",
+            "ext": "335",
+            "ubicacion": "Aseguramiento y Logistica",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Local Energía",
+            "telefono": "2085275",
+            "ext": "364",
+            "ubicacion": "Aseguramiento y Logistica",
+            "puerta": "33"
+
+
+        },
+        {
+
+            "local": "Cocina-Comedor",
+            "telefono": "2080832",
+            "ext": "220",
+            "ubicacion": "Aseguramiento y Logistica",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Taller Automotriz",
+            "telefono": "------",
+            "ext": "389",
+            "ubicacion": "Aseguramiento y Logistica",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Taller Mecánica",
+            "telefono": "------",
+            "ext": "281",
+            "ubicacion": "Aseguramiento y Logistica",
+            "puerta": "-----"
+
+
+        },
+        {
+
+            "local": "Taller Electricidad",
+            "telefono": "------",
+            "ext": "232",
+            "ubicacion": "Aseguramiento y Logistica",
+            "puerta": "319"
+
+
+        },
+        {
+
+            "local": "Taller Enrolladlo",
+            "telefono": "------",
+            "ext": "219",
+            "ubicacion": "Aseguramiento y Logistica",
+            "puerta": "38"
+
+
+        },
+        {
+
+            "local": "Taller Refrigeración",
+            "telefono": "------",
+            "ext": "212",
+            "ubicacion": "Aseguramiento y Logistica",
+            "puerta": "321"
+
+
+        },
+        {
+
+            "local": "Taller Plástico",
+            "telefono": "------",
+            "ext": "343",
+            "ubicacion": "Aseguramiento y Logistica",
+            "puerta": "53"
+
+
+        },
+        {
+
+            "local": "Taller Electromecánica",
+            "telefono": "------",
+            "ext": "363",
+            "ubicacion": "Aseguramiento y Logistica",
+            "puerta": "7"
+
+
+        },
+        {
+
+            "local": "Carpintería",
+            "telefono": "------",
+            "ext": "267",
+            "ubicacion": "Aseguramiento y Logistica",
+            "puerta": "322"
+
+
+        },
+        {
+
+            "local": "Cerrajería",
+            "telefono": "------",
+            "ext": "367",
+            "ubicacion": "Aseguramiento y Logistica",
+            "puerta": "318"
+
+
+        },
+        {
+
+            "local": "Electromecánica 1",
+            "telefono": "------",
+            "ext": "364",
+            "ubicacion": "Aseguramiento y Logistica",
+            "puerta": "31"
+
+
+        },
+        {
+
+            "local": "Electromecánica 2",
+            "telefono": "------",
+            "ext": "334",
+            "ubicacion": "Aseguramiento y Logistica",
+            "puerta": "17"
+
+
+        },
+        {
+
+            "local": "Planta Agua",
+            "telefono": "------",
+            "ext": "371",
+            "ubicacion": "Aseguramiento y Logistica",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Local Transporte",
+            "telefono": "------",
+            "ext": "244",
+            "ubicacion": "Aseguramiento y Logistica",
+            "puerta": "52"
+
+
+        },
+        {
+
+            "local": "Mantenimiento",
+            "telefono": "------",
+            "ext": "217",
+            "ubicacion": "Aseguramiento y Logistica",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Almacén 2 Reactivo",
+            "telefono": "------",
+            "ext": "358",
+            "ubicacion": "Aseguramiento y Logistica",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Almacén 3 Comedor",
+            "telefono": "------",
+            "ext": "296",
+            "ubicacion": "Aseguramiento y Logistica",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Almacén 6 Construcción",
+            "telefono": "------",
+            "ext": "328",
+            "ubicacion": "Aseguramiento y Logistica",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Almacén 9 General",
+            "telefono": "2080834",
+            "ext": "372",
+            "ubicacion": "Aseguramiento y Logistica",
+            "puerta": "------"
+
+
+        }
+    ],
+    "segproteccion": [
+        {
+            "director": "Inocencio Ramíres Galván"
+        },
+        {
+
+            "local": "Dirección",
+            "telefono": "2085297",
+            "ext": "230",
+            "ubicacion": "Edif. 1 piso 1",
+            "puerta": "7"
+
+
+        },
+        {
+
+            "local": "OCIC",
+            "telefono": "------",
+            "ext": "230",
+            "ubicacion": "Edif. 1 piso 1",
+            "puerta": "7"
+
+
+        },
+        {
+
+            "local": "Oficina Seguridad",
+            "telefono": "------",
+            "ext": "299",
+            "ubicacion": "Edif. 2 piso 4",
+            "puerta": "243"
+
+
+        },
+        {
+
+            "local": "Recepción",
+            "telefono": "2085295",
+            "ext": "237",
+            "ubicacion": "Ave 25 esq. 158",
+            "puerta": "15202"
+
+
+        },
+        {
+
+            "local": "Jefe Turno CVP",
+            "telefono": "2085295",
+            "ext": "318",
+            "ubicacion": "Ave 25 esq. 158",
+            "puerta": "15202"
+
+
+        },
+        {
+
+            "local": "Posta5",
+            "telefono": "------",
+            "ext": "287",
+            "ubicacion": "Calle 152 y Ave 25",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Vestíbulo Central",
+            "telefono": "------",
+            "ext": "211",
+            "ubicacion": "Ave 25 esq. 158",
+            "puerta": "15202"
+
+
+        },
+        {
+
+            "local": "Seguridad Informática",
+            "telefono": "------",
+            "ext": "------",
+            "ubicacion": "Edif. 1 piso 1",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Técnico Seguridad J’ Grupo",
+            "telefono": "------",
+            "ext": "238",
+            "ubicacion": "Edif. 2 piso 1",
+            "puerta": "80b"
+
+
+        },
+        {
+
+            "local": "Posta3",
+            "telefono": "------",
+            "ext": "279",
+            "ubicacion": "Ave 25 esq. 158 Inter",
+            "puerta": "------"
+
+
+        }
+
+    ],
+    "depequipos": [
+        {
+            "director": "Ariel Tarifa"
+        },
+        {
+
+            "local": "Secretaría",
+            "telefono": "2080959",
+            "ext": "286",
+            "ubicacion": "Edif. 2 Piso 2",
+            "puerta": "114R"
+
+
+        },
+        {
+
+            "local": "Dpto. de Ozono",
+            "telefono": "2084131",
+            "ext": "400",
+            "ubicacion": "------",
+            "puerta": "114s"
+
+
+        },
+        {
+
+            "local": "Producción de Diagnosticadores",
+            "telefono": "2084792",
+            "ext": "256",
+            "ubicacion": "Edif. 2 Piso 2",
+            "puerta": "123"
+
+
+        },
+        {
+
+            "local": "Dpto. Calidad Coralina",
+            "telefono": "2085244",
+            "ext": "359",
+            "ubicacion": "------",
+            "puerta": "134"
+
+
+        },
+        {
+
+            "local": "Preparación Materiales. Planta Diag.",
+            "telefono": "------",
+            "ext": "245",
+            "ubicacion": "------",
+            "puerta": "129"
+
+
+        },
+        {
+
+            "local": "Planta Solución Hum.",
+            "telefono": "------",
+            "ext": "391",
+            "ubicacion": "------",
+            "puerta": "83a"
+
+
+        },
+        {
+
+            "local": "Desarrollo Equipos Ozonos",
+            "telefono": "------",
+            "ext": "268",
+            "ubicacion": "Aseg. y Logística",
+            "puerta": "19"
+
+
+        },
+        {
+
+            "local": "Producción de Equipos",
+            "telefono": "------",
+            "ext": "333",
+            "ubicacion": "------",
+            "puerta": "22"
+
+
+        },
+        {
+
+            "local": "Producción de Equipos",
+            "telefono": "------",
+            "ext": "------",
+            "ubicacion": "------",
+            "puerta": "19"
+
+
+        },
+        {
+
+            "local": "Planta Carolina",
+            "telefono": "------",
+            "ext": "295",
+            "ubicacion": "Edif. 2 Piso 4",
+            "puerta": "231"
+
+
+        }
+    ],
+    "diragrup1": [
+        {
+            "director": "Leila Cabrera Rubi"
+        },
+        {
+
+            "local": "Pizarra",
+            "telefono": "2082086",
+            "ext": "201",
+            "ubicacion": "Ave 25 Esq.158 Inter",
+            "puerta": "#15220"
+
+
+        },
+        {
+
+            "local": "Recepción",
+            "telefono": "------",
+            "ext": "210",
+            "ubicacion": "Ave 25 Esq.158 Inter",
+            "puerta": "#15220"
+
+
+        },
+        {
+
+            "local": "Administración",
+            "telefono": "2082045",
+            "ext": "202",
+            "ubicacion": "Ave 25 Esq.158 Inter",
+            "puerta": "#15220"
+
+
+        },
+        {
+
+            "local": "Planta Oleozón",
+            "telefono": "2086681",
+            "ext": "217",
+            "ubicacion": "Ave 25 Esq.158 Inter",
+            "puerta": "#15220"
+
+
+        },
+        {
+
+            "local": "Cápsulas",
+            "telefono": "------",
+            "ext": "204",
+            "ubicacion": "Ave 25 Esq.158 Inter",
+            "puerta": "#15220"
+
+
+        },
+        {
+
+            "local": "Administradora",
+            "telefono": "------",
+            "ext": "207",
+            "ubicacion": "Ave 25 Esq.158 Inter",
+            "puerta": "#15220"
+
+
+        },
+        {
+
+            "local": "Aseguramiento",
+            "telefono": "------",
+            "ext": "208",
+            "ubicacion": "Ave 25 Esq.158 Inter",
+            "puerta": "#15220"
+
+
+        },
+        {
+
+            "local": "Cocina",
+            "telefono": "------",
+            "ext": "209",
+            "ubicacion": "Ave 25 Esq.158 Inter",
+            "puerta": "#15220"
+
+
+        },
+        {
+
+            "local": "Materia Prima",
+            "telefono": "------",
+            "ext": "211",
+            "ubicacion": "Ave 25 Esq.158 Inter",
+            "puerta": "#15220"
+
+
+        },
+        {
+
+            "local": "Desarrollo",
+            "telefono": "------",
+            "ext": "215",
+            "ubicacion": "Ave 25 Esq.158 Inter",
+            "puerta": "#15220"
+
+
+        },
+        {
+
+            "local": "Cromatografía",
+            "telefono": "------",
+            "ext": "214",
+            "ubicacion": "Ave 25 Esq.158 Inter",
+            "puerta": "#15220"
+
+
+        },
+        {
+
+            "local": "Personal",
+            "telefono": "------",
+            "ext": "216",
+            "ubicacion": "Ave 25 Esq.158 Inter",
+            "puerta": "#15220"
+
+
+        },
+        {
+
+            "local": "Propóleos",
+            "telefono": "------",
+            "ext": "230",
+            "ubicacion": "Ave 25 Esq.158 Inter",
+            "puerta": "#15220"
+
+
+        },
+        {
+
+            "local": "Almacén",
+            "telefono": "2084486",
+            "ext": "------",
+            "ubicacion": "Ave 25 Esq.158 Inter",
+            "puerta": "#15220"
+
+
+        }
+    ],
+    "diragrup2": [
+        {
+            "director": "Leila Cabrera Rabi"
+        },
+        {
+
+            "local": "Pizarra",
+            "telefono": "2082046, 2082032, 2082264",
+            "ext": "101, 105",
+            "ubicacion": "Calle 152 y Ave 25",
+            "puerta": "#15017"
+
+
+        },
+        {
+
+            "local": "Dirección",
+            "telefono": "2084431",
+            "ext": "102",
+            "ubicacion": "Calle 152 y Ave 25",
+            "puerta": "#15017"
+
+
+        },
+        {
+
+            "local": "Oficina .Administración",
+            "telefono": "2082052",
+            "ext": "106",
+            "ubicacion": "Calle 152 y Ave 25",
+            "puerta": "#15017"
+
+
+        },
+        {
+
+            "local": "Administración",
+            "telefono": "------",
+            "ext": "103",
+            "ubicacion": "Calle 152 y Ave 25",
+            "puerta": "#15017"
+
+
+        },
+        {
+
+            "local": "Absorción Atómica",
+            "telefono": "2087013",
+            "ext": "104",
+            "ubicacion": "Calle 152 y Ave 25",
+            "puerta": "#15017"
+
+
+        },
+        {
+
+            "local": "Almacén Tabletas",
+            "telefono": "------",
+            "ext": "107",
+            "ubicacion": "Calle 152 y Ave 25",
+            "puerta": "#15017"
+
+
+        },
+        {
+
+            "local": "Almacén",
+            "telefono": "2082056",
+            "ext": "108",
+            "ubicacion": "Calle 152 y Ave 25",
+            "puerta": "#15017"
+
+
+        },
+        {
+
+            "local": "Taller",
+            "telefono": "------",
+            "ext": "109",
+            "ubicacion": "Calle 152 y Ave 25",
+            "puerta": "#15017"
+
+
+        },
+        {
+
+            "local": "Mantenimiento",
+            "telefono": "------",
+            "ext": "110",
+            "ubicacion": "Calle 152 y Ave 25",
+            "puerta": "#15017"
+
+
+        },
+        {
+
+            "local": "Jefe Custodio",
+            "telefono": "------",
+            "ext": "111",
+            "ubicacion": "Calle 152 y Ave 25",
+            "puerta": "#15017"
+
+
+        },
+        {
+
+            "local": "Solventes",
+            "telefono": "------",
+            "ext": "112",
+            "ubicacion": "Calle 152 y Ave 25",
+            "puerta": "#15017"
+
+
+        },
+        {
+
+            "local": "Laboratorio",
+            "telefono": "------",
+            "ext": "113, 120",
+            "ubicacion": "Calle 152 y Ave 25",
+            "puerta": "#15017"
+
+
+        },
+        {
+
+            "local": "Electricidad",
+            "telefono": "------",
+            "ext": "115",
+            "ubicacion": "Calle 152 y Ave 25",
+            "puerta": "#15017"
+
+
+        },
+        {
+
+            "local": "Cocina",
+            "telefono": "------",
+            "ext": "116",
+            "ubicacion": "Calle 152 y Ave 25",
+            "puerta": "#15017"
+
+
+        },
+        {
+
+            "local": "Salón",
+            "telefono": "------",
+            "ext": "117",
+            "ubicacion": "Calle 152 y Ave 25",
+            "puerta": "#15017"
+
+
+        },
+        {
+
+            "local": "Personal",
+            "telefono": "------",
+            "ext": "118",
+            "ubicacion": "Calle 152 y Ave 25",
+            "puerta": "#15017"
+
+
+        },
+        {
+
+            "local": "Costurera",
+            "telefono": "------",
+            "ext": "119",
+            "ubicacion": "Calle 152 y Ave 25",
+            "puerta": "#15017"
+
+
+        }
+    ],
+    "diragrup3": [
+        {
+            "director": "Leila Cabrera Rabi"
+        },
+        {
+
+            "local": "Pizarra",
+            "telefono": "2719577, 2719698, 2719786",
+            "ext": "101",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Recepción",
+            "telefono": "------",
+            "ext": "128",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Dirección General",
+            "telefono": "2713053",
+            "ext": "103",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Dirección",
+            "telefono": "2719067",
+            "ext": "102",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Calidad",
+            "telefono": "------",
+            "ext": "104",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Transporte",
+            "telefono": "------",
+            "ext": "105",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Comercial",
+            "telefono": "------",
+            "ext": "106",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Sub. Dir. Técnica",
+            "telefono": "------",
+            "ext": "107",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Administración",
+            "telefono": "------",
+            "ext": "108",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Cocina",
+            "telefono": "------",
+            "ext": "117",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Comedor",
+            "telefono": "------",
+            "ext": "118",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Garita Principal",
+            "telefono": "------",
+            "ext": "119",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Jefe de Custodio",
+            "telefono": "------",
+            "ext": "120",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Almacén de Lotes",
+            "telefono": "------",
+            "ext": "121",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Planta 3 Pasillo",
+            "telefono": "------",
+            "ext": "122",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Planta 2 Oficina",
+            "telefono": "------",
+            "ext": "123",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Planta 1 Oficina",
+            "telefono": "------",
+            "ext": "124",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Calderas",
+            "telefono": "------",
+            "ext": "125",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Garita Solventes",
+            "telefono": "------",
+            "ext": "126",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Salón de Reuniones",
+            "telefono": "------",
+            "ext": "129",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Lab. Materia Prima",
+            "telefono": "------",
+            "ext": "130",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Oficina J' de Laboratorio",
+            "telefono": "------",
+            "ext": "131",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Taller – Pañol",
+            "telefono": "------",
+            "ext": "132",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Maquinado",
+            "telefono": "------",
+            "ext": "134",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Oficina Mantenimiento",
+            "telefono": "------",
+            "ext": "135",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Cuarto Eléctrico",
+            "telefono": "------",
+            "ext": "136",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Instrumentación",
+            "telefono": "------",
+            "ext": "137",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Garita Mtro",
+            "telefono": "------",
+            "ext": "138",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Almacén",
+            "telefono": "------",
+            "ext": "139",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Grupo Electrógeno",
+            "telefono": "------",
+            "ext": "140",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Dpto. Calidad",
+            "telefono": "------",
+            "ext": "141",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "J' Dpto. Calidad",
+            "telefono": "2501984",
+            "ext": "142",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Planta 3 Oficina",
+            "telefono": "------",
+            "ext": "143",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Planta 4 Oficina",
+            "telefono": "------",
+            "ext": "144",
+            "ubicacion": "Calle 264 e/23 y 27A",
+            "puerta": "#2319"
+
+
+        },
+        {
+
+            "local": "Albergue",
+            "telefono": "2659097",
+            "ext": "------",
+            "ubicacion": "------",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Planta Piloto Esteroide",
+            "telefono": "------",
+            "ext": "271, 272",
+            "ubicacion": "CNIC",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Planta de secado",
+            "telefono": "------",
+            "ext": "399",
+            "ubicacion": "CNIC",
+            "puerta": "------"
+
+
+        }
+    ],
+    "diragrup4": [
+        {
+            "director": "Leila Cabrera Rabi"
+        },
+        {
+
+            "local": "Pizarra",
+            "telefono": "2715685, 2715876, 2715912",
+            "ext": "401",
+            "ubicacion": "Calle 19 Esq. 198",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Recepción",
+            "telefono": "------",
+            "ext": "414",
+            "ubicacion": "Calle 19 Esq. 198",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Comunicaciones",
+            "telefono": "------",
+            "ext": "402",
+            "ubicacion": "Calle 19 Esq. 198",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Computación",
+            "telefono": "2715164, 2717776",
+            "ext": "404",
+            "ubicacion": "Calle 19 Esq. 198",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Metrología",
+            "telefono": "------",
+            "ext": "405",
+            "ubicacion": "Calle 19 Esq. 198",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Subdirector de Producción",
+            "telefono": "2718944",
+            "ext": "407",
+            "ubicacion": "Calle 19 Esq. 198",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Administración",
+            "telefono": "2717666",
+            "ext": "408",
+            "ubicacion": "Calle 19 Esq. 198",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Salón de Reuniones",
+            "telefono": "------",
+            "ext": "410",
+            "ubicacion": "Calle 19 Esq. 198",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Automática",
+            "telefono": "2717775",
+            "ext": "412",
+            "ubicacion": "Calle 19 Esq. 198",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Electricidad",
+            "telefono": "------",
+            "ext": "413",
+            "ubicacion": "Calle 19 Esq. 198",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Especialista Mantenimiento",
+            "telefono": "2715977",
+            "ext": "415",
+            "ubicacion": "Calle 19 Esq. 198",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Oficina Mantenimiento",
+            "telefono": "------",
+            "ext": "416",
+            "ubicacion": "Calle 19 Esq. 198",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Chapistería",
+            "telefono": "------",
+            "ext": "418",
+            "ubicacion": "Calle 19 Esq. 198",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Mantenimiento",
+            "telefono": "------",
+            "ext": "423",
+            "ubicacion": "Calle 19 Esq. 198",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Comedor",
+            "telefono": "------",
+            "ext": "424",
+            "ubicacion": "Calle 19 Esq. 198",
+            "puerta": "------"
+
+
+        }
+    ],
+    "clinicaozono": [
+        {
+            "director": "José Luis Calunga"
+        },
+        {
+
+            "local": "Recepción",
+            "telefono": "2710588",
+            "ext": "------",
+            "ubicacion": "Calle 230 Esq. 15",
+            "puerta": "1313"
+
+
+        },
+        {
+
+            "local": "Dirección Ozono",
+            "telefono": "2712089, 2710233, 2723376",
+            "ext": "------",
+            "ubicacion": "Calle 230 Esq. 15",
+            "puerta": "1313"
+
+
+        },
+        {
+
+            "local": "Administración",
+            "telefono": "2723382",
+            "ext": "------",
+            "ubicacion": "Calle 230 Esq. 15",
+            "puerta": "1313"
+
+
+        },
+        {
+
+            "local": "Clínica 2",
+            "telefono": "2723380",
+            "ext": "------",
+            "ubicacion": "Calle 230 Esq. 15",
+            "puerta": "1313"
+
+
+        },
+        {
+
+            "local": "Garita Custodio",
+            "telefono": "2723378, 2723381",
+            "ext": "------",
+            "ubicacion": "Calle 230 Esq. 15",
+            "puerta": "1313"
+
+
+        }
+    ],
+    "dalmer": [
+        {
+            "director": "Sarahí Mendoza Castaño"
+        },
+        {
+
+            "local": "Pizarra",
+            "telefono": "2080948, 2730167",
+            "ext": "351",
+            "ubicacion": "Ave 25 Esq. 190",
+            "puerta": "#15819"
+
+
+        },
+        {
+
+            "local": "Recepción",
+            "telefono": "2085835",
+            "ext": "351",
+            "ubicacion": "Ave 25 Esq. 190",
+            "puerta": "#15819"
+
+
+        },
+        {
+
+            "local": "Dpto. Importaciones",
+            "telefono": "------",
+            "ext": "108",
+            "ubicacion": "Ave 25 Esq. 190",
+            "puerta": "#15819"
+
+
+        },
+        {
+
+            "local": "Dpto. Comercial",
+            "telefono": "2736837 fax",
+            "ext": "119",
+            "ubicacion": "Ave 25 Esq. 190",
+            "puerta": "#15819"
+
+
+        },
+        {
+
+            "local": "Dpto. Economía",
+            "telefono": "------",
+            "ext": "103",
+            "ubicacion": "Ave 25 Esq. 190",
+            "puerta": "#15819"
+
+
+        },
+        {
+
+            "local": "Administración",
+            "telefono": "------",
+            "ext": "104",
+            "ubicacion": "Ave 25 Esq. 190",
+            "puerta": "#15819"
+
+
+        },
+        {
+
+            "local": "Farmacia",
+            "telefono": "------",
+            "ext": "105",
+            "ubicacion": "Ave 25 Esq. 190",
+            "puerta": "#15819"
+
+
+        },
+        {
+
+            "local": "Almacén",
+            "telefono": "------",
+            "ext": "107",
+            "ubicacion": "Ave 25 Esq. 190",
+            "puerta": "#15819"
+
+
+        },
+        {
+
+            "local": "Clínica",
+            "telefono": "2085834",
+            "ext": "117, 283",
+            "ubicacion": "Ave 25 Esq. 190",
+            "puerta": "#15819"
+
+
+        }
+    ],
+    "cpn": [
+        {
+            "director": "Sarahí Mendoza Castaño"
+        },
+        {
+
+            "local": "Pizarra",
+            "telefono": "2714200 , 2714225, 2714238",
+            "ext": "100,115",
+            "ubicacion": "198 E/ 19 Y 21",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Dirección",
+            "telefono": "2711653, 2711654",
+            "ext": "108",
+            "ubicacion": "198 E/ 19 Y 21",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Farmacología",
+            "telefono": "------",
+            "ext": "101",
+            "ubicacion": "198 E/ 19 Y 21",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Toxicología",
+            "telefono": "------",
+            "ext": "104",
+            "ubicacion": "198 E/ 19 Y 21",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Bioterio",
+            "telefono": "------",
+            "ext": "105",
+            "ubicacion": "198 E/ 19 Y 21",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "UGC",
+            "telefono": "------",
+            "ext": "109",
+            "ubicacion": "198 E/ 19 Y 21",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Administración",
+            "telefono": "------",
+            "ext": "111",
+            "ubicacion": "198 E/ 19 Y 21",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Química",
+            "telefono": "------",
+            "ext": "114",
+            "ubicacion": "198 E/ 19 Y 21",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Garita",
+            "telefono": "------",
+            "ext": "115",
+            "ubicacion": "198 E/ 19 Y 21",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Bioquímica",
+            "telefono": "------",
+            "ext": "102",
+            "ubicacion": "198 E/ 19 Y 21",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Histología",
+            "telefono": "------",
+            "ext": "103",
+            "ubicacion": "198 E/ 19 Y 21",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Conejera ",
+            "telefono": "------",
+            "ext": "106",
+            "ubicacion": "198 E/ 19 Y 21",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Cromatografía",
+            "telefono": "------",
+            "ext": "107",
+            "ubicacion": "198 E/ 19 Y 21",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Local de HPL",
+            "telefono": "------",
+            "ext": "110",
+            "ubicacion": "198 E/ 19 Y 21",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Comedor",
+            "telefono": "------",
+            "ext": "112",
+            "ubicacion": "198 E/ 19 Y 21",
+            "puerta": "------"
+
+
+        },
+        {
+
+            "local": "Mantenimiento",
+            "telefono": "------",
+            "ext": "113",
+            "ubicacion": "198 E/ 19 Y 21",
+            "puerta": "------"
+
+
+        }
+    ],
+    "otros": [
+        {
+
+            "local": "Comité del PCC",
+            "telefono": "2080942",
+            "ext": "242",
+            "ubicacion": "Edif. 1 Piso 1",
+            "puerta": "27"
+
+
+        },
+        {
+
+            "local": "Buro Sindical",
+            "telefono": "------",
+            "ext": "282",
+            "ubicacion": "Aseg. Log.",
+            "puerta": "5"
+
+
+        },
+        {
+
+            "local": "Enfermería",
+            "telefono": "------",
+            "ext": "225",
+            "ubicacion": "Edif. 2 Piso 2",
+            "puerta": "110"
+
+
+        }
+    ]
+
+}

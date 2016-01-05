@@ -1,0 +1,33 @@
+<div class="row">
+    <div class="col-md-7"></div>
+    <div class="col-md-5">
+
+    </div>
+</div>
+
+<table class="table table-striped table-condensed table-hover " style="width: 630px;">
+    <thead>
+    <tr>
+
+        <th style="width: 200px;">Local</th>
+        <th style="width: 120px;">Teléfono</th>
+        <th style="width: 80px;">Ext</th>
+        <th style="width: 160px;">Ubicación</th>
+        <th style="width: 80px;">Puerta</th>
+
+    </tr>
+    </thead>
+    <tbody>
+    <tr ng-repeat="dir in datos | filter: query | orderBy: orden">
+
+        <td style="width: 200px">{{ dir.local }}</td>
+        <td style="width: 120px">{{ dir.telefono }}</td>
+        <td style="width: 80px">{{dir.ext }}</td>
+        <td style="width: 95px">{{ dir.ubicacion }}</td>
+        <td style="width: 80px;">{{ dir.puerta }}</td>
+    </tr>
+    </tbody>
+</table>
+
+
+

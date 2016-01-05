@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="es" ng-app="agendaApp">
+    <head>
+        <meta charset="utf-8">
+        <script src="src/lib/jquery-1.8.3.min.js"></script>
+        <script src="src/lib/bootstrap-tour.min.js"></script>
+        <script src="src/lib/funciones.js"></script>
+
+        <script src="src/lib/angular.js"></script>
+        <script src="src/lib/angular-route.js"></script>
+        <script src="src/services/services.js"></script>
+        <script src="src/directives/directives.js"></script>
+        <script src="src/lib/angular-resource.min.js"></script>
+        <script src="src/lib/angular-cookies.js"></script>
+
+        <script src="src/lib/ui-bootstrap-tpls-0.10.0.min.js"></script>
+
+
+        <script src="src/lib/ng-grid.js"></script>
+        <script src="src/lib/underscore-min.js"></script>
+        <script src="src/lib/bootstrap.min.js"></script>
+        <script src="src/lib/jquery-ui-1.9.1.custom.min.js"></script>
+
+
+
+
+        <script src="src/controllers/app.js"></script>
+        <script src="src/controllers/controllers.js"></script>
+
+
+        <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+        <link href="css/ng-grid.min.css" rel="stylesheet" media="screen">
+        <link href="css/estilos.css" rel="stylesheet" media="screen">
+        <link href="css/jquery-ui.css" rel="stylesheet" media="screen">
+        <link href="css/bootstrap-tour.min.css" rel="stylesheet" media="screen">
+
+
+        <title>Directorio telefonico CNIC</title>
+
+        <script>
+
+
+
+
+        </script>
+    </head>
+
+    <body ng-app="myApp">
+        <button class="btn-group" value="tour"></button>
+        <div >Lalala</div>
+        <div class="two">Llelele</div>
+        <div ng-init="myProperty = 'wow, this is cool'"></div>
+        Surrounding scope: {{ myProperty }}
+        <div my-inherit-scope-directive="SomeController">
+            Inside an directive with inherited scope: {{ myProperty }}
+        </div>
+        <div my-directive>
+            Inside myDirective, isolate scope: {{ myProperty }}
+            </div>
+
+   <input ng-controller="desabilita" type="button" ng-disabled="isDisabled" value="5 seconds" class="btntour">
+
+<div first-directive
+     my-url="theirUrl"
+     my-link-text="Link a Google"></div>
+
+        <div class="row" style="border: 1px solid #dddddd; padding: 10px; height: 500px; width: 960px; margin: 1em auto; border-radius: 5px; background-color: #ffffff;box-shadow: 0 2px 6px #EAEAEA; ">
+
+            <div class="row" style="border-bottom:1px solid #dddddd; margin-bottom: 20px; background-color: #ac2925">
+                <div  class="col-md-6"><h2 style="color: #ffffff">Directorio Telefónico CNIC</h2></div>
+               <div class="col-md-1" ng-controller="modalCtrl" style="padding: 12px; float: right"><a ng-click="open()"><img ng-src="./img/Question-mark-icon.png" style="float: right; cursor: pointer"></a></div>
+                <div class="col-md-5">
+                    <div class="form-group has-feedback" style="width: 90%;float: right;" >
+                        <label class="control-label" for="inputSuccess2"> </label>
+                        <input ng-change="play()" ng-model="query" type="text"  class="form-control tooltip-ul"  id="inputSuccess2"  placeholder="Filtre su resultado">
+                        <div ng-controller="lastController">
+                            <input type="button" ng-click="cookie()" value="cookie">
+                        </div>
+
+                        <span class="glyphicon glyphicon-search form-control-feedback"></span>
+                    </div>
+                </div>
+
+            </div>
+
+
+            <div class="col-md-4" style="width: 30%; ">
+
+                <div class="list-group" style="overflow-y: scroll; height: 380px; ">
+                    <a href="#/pizarra" class="list-group-item ">
+
+                        Pizarra
+                    </a>
+
+                    <a href="#/direccion-general" class="list-group-item 1">
+
+                        Dirección General
+                    </a>
+                    <a href="#/direccion-organizacion" class="list-group-item">
+
+                        Dirección Organización
+                    </a>
+                    <a href="#/direccion-economia" class="list-group-item">
+
+                        Dirección Economía
+                    </a>
+                    <a href="#/direccion-medio-ambiente" class="list-group-item">
+
+                        Dirección Medio Ambiente
+                    </a>
+                    <a href="#/direccion-enfermedades-infecciosas" class="list-group-item">
+
+                        Dirección Enfermedades Infecciosas
+                    </a>
+                    <a href="#/direcion-aseguramiento-logistica" class="list-group-item">
+
+                        Dirección Aseguramiento Logística
+                    </a>
+                    <a href="#/direcion-seguridad-proteccion" class="list-group-item">
+
+                        Dirección Seguridad Protección
+
+                    </a>
+                    <a href="#/departamento-equipos" class="list-group-item">
+
+                        Departamento Equipos
+                    </a>
+
+                    <a href="#/direccion-produccion-agrupacion1" class="list-group-item">
+
+                        Producción Agrupación #1
+                    </a>
+                    <a href="#/direccion-produccion-agrupacion2" class="list-group-item">
+
+                        Producción Agrupación #2
+                    </a>
+                    <a href="#/direccion-produccion-agrupacion3" class="list-group-item">
+
+                        Producción Agrupación #3
+                    </a>
+                    <a href="#/direccion-produccion-agrupacion4" class="list-group-item">
+
+                        Producción Agrupación #4
+                    </a>
+                    <a href="#/clinica-ozonoterapia" class="list-group-item">
+
+                        Clínica Ozonoterapia
+                    </a>
+                    <a href="#/laboratorios-dalmer" class="list-group-item">
+                        <span class="badge">{{size.dalmer}}</span>
+                        Laboratorios Dalmer
+                    </a>
+                    <a href="#/centro-productos-naturales" class="list-group-item">
+
+                        Centro Productos Naturales
+                    </a>
+                    <a href="#/otros-locales" class="list-group-item">
+
+                        Otros Locales
+                    </a>
+                </div>
+
+
+            </div>
+
+            <div class="col-md-8" style="width: 69.6667%;">
+                <div class="row">
+                    <div class="col-md-7">
+
+                    </div>
+                    <div class="col-md-5">
+
+                    </div>
+
+                </div>
+                <div class="row 2" style=" overflow-y: scroll;overflow-x: hidden; float: right; height: 380px;">
+                    <div ng-view></div>
+                </div>
+
+            </div>
+        </div>
+<div class="row" style="width: 100%; text-align: center; "><span style="color: #666666">© 2014 - CNIC - Grupo de desarrollo</span></div>
+    </body>
+</html>
